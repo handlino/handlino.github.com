@@ -1,0 +1,41 @@
+---
+title:       Home
+created_at:  2008-08-02 14:06:40.000000 -06:00
+filter:
+  - markdown
+---
+
+HDC stands for [Handlino](http://handlino.com/) Developer Connections.
+
+## PERL Projects
+
+### [railish](http://github.com/gugod/railsish/)
+
+A perl webapp framework with rails-like convention-based coding style.
+
+### [javascript writer](http://github.com/gugod/javascript-writer/)
+
+(Perl) JavaScript code generation from Perl.
+
+## Rails Projects
+
+### [spakit](http://github.com/ihower/spakit/)
+
+SPAkit is a plugin that makes it very easy to turn your Rails App Into a "single page application" (SPA).
+
+### [facebox_render](http://github.com/ihower/facebox_render/)
+
+FaceboxRender is a Rails plugin let you use lightbox seamlessly using Facebox library (http://famspam.com/facebox/)
+
+## Ruby Projects
+
+### [yahoo_lifestyle_tw](http://github.com/ihower/yahoo_lifestyle_tw/)
+
+Ruby Library for the Yahoo! LifeStyle API
+
+## JavaScript Projects
+
+### [jFormino](http://github.com/handlino/jformino/)
+
+JFormino is a form generation plugin for jQuery.
+

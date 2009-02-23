@@ -1,0 +1,13 @@
+SITE.output_dir = '..'
+# generate every page in it's own directory
+SITE.create_mode = 'directory'
+
+SITE.author = "Handlino Inc.`"
+SITE.name = "Handlino Developer Connection"
+ 
+task :default => :clean_build
+
+desc 'deploy the site to the webserver'
+task :deploy => [:build, 'deploy:rsync']
+
+# EOF
