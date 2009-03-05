@@ -1,0 +1,71 @@
+
+body {
+    background: url(../images/bg.png) top repeat-x;
+    font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+    color: #333;
+}
+
+#wrap-background {
+    background: url(../images/wrap-bg.png) left top repeat-x;
+}
+
+#wrap-foreground {
+    background: url(../images/wrap-fg.png) right top repeat-x;
+}
+
+
+a:link, a:visited {
+    color: #8BB324;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: #000;
+    text-decoration: underline;
+}
+
+::selection {
+    background: #8BB324; 
+	color: white; /* Safari */
+}
+
+::-moz-selection {
+    background: #8BB324; 
+	color: white; /* Firefox */ 
+}
+
+/* Header
+ * --------------------------------------------------------------------- */
+ 
+#hd {
+    height: 126px;
+    position: relative;
+}
+
+#hd .leafage {
+    background: url(../images/leafage.png) no-repeat;
+    width: 858px;
+    height: 126px;
+    position: absolute;
+    right: 0px;
+    z-index: 20;
+}
+
+#hd .sunshine {
+    background: url(../images/sunshine.png) no-repeat;
+    width: 634px;
+    height: 112px;
+    position: absolute;
+    left: -80px;
+    z-index: 10;
+}
+
+#hd h1 {
+    background: url(../images/h1.png) no-repeat;
+    width: 415px;
+    height: 61px;
+    position: absolute;
+    top: 20px;
+    z-index: 8;
+    text-indent: -9999em;
+}
