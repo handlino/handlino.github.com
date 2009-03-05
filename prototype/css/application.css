@@ -154,6 +154,24 @@ a:hover, a:active {
  
 #footer {
     margin-top: 40px;
+    padding-bottom: 40px;
 }
 
+#footer address {
+    float: left;
+}
+
+#footer .logo {
+    float: right;
+    display: inline-block;
+    background: url(../images/logo-small.png) top no-repeat;
+    width: 163px;
+    height: 24px;
+    text-indent: -9999em;
+    outline: none;
+}
+
+#footer .logo:hover {
+    background: url(../images/logo-small.png) bottom no-repeat;
+}
 
