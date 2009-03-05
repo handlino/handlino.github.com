@@ -7,7 +7,7 @@ filter:
 
 HDC stands for [Handlino](http://handlino.com/) Developer Connections.
 
-## PERL Projects
+## Perl Projects
 
 ### [railish](http://github.com/gugod/railsish/)
 
