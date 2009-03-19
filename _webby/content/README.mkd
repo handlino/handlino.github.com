@@ -1,0 +1,15 @@
+# How to update this site
+
+This site is powered by [Webby](http://webby.rubyforge.org/).
+
+If you want to add page: 
+
+    cd _webby
+    webby create:page
+
+then rebuild the site:
+
+    cd _webby
+    webby
+
+After all, git add these pages and commit.
