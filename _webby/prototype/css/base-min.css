@@ -26,7 +26,7 @@ version: 2.5.2
 	}
 
 .description abbr,.description acronym {
-    border-bottom:1px dotted #ccc;
+    border-bottom:1px dotted #666;
 	cursor:help;
 	} 
 
@@ -55,7 +55,7 @@ version: 2.5.2
 	}
 
 .description th,.description td {
-    border:1px solid #E4E1D7;
+    border:1px solid #ddd;
 	padding:.5em;
 	}
 
